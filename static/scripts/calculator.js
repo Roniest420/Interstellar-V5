@@ -1,13 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   const appsList = [
     {
-      name: "Game Request Form",
-      link: "https://forms.gle/sETp9o9SSDgXtXvd7",
-      image: "/images/icons/request.webp",
-      categories: ['all'],
-      error: false
-    },
-    {
       name: "FNAF World",
       link: "www.silvergames.com/en/fnaf-world",
       image: "/images/icons/FNAF World.jfif",
